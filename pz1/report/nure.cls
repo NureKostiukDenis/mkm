@@ -3,16 +3,94 @@
 
 \LoadClass[14pt,oneside]{extreport}
 
-\RequirePackage{cmap}
-\RequirePackage[T1,T2A]{fontenc}
-\RequirePackage[utf8]{inputenc}
+
+
+\RequirePackage{fontspec}
+\setmainfont{FreeSerif}[
+    Path = fonts/,
+    Extension = .otf,
+    UprightFont = FreeSerif,
+    BoldFont = FreeSerifBold,
+    ItalicFont = FreeSerifItalic,
+    BoldItalicFont = FreeSerifBoldItalic,
+    Ligatures = TeX
+]
+\setmonofont{LiberationMono}[
+    Path = fonts/,
+    Extension = .ttf,
+    UprightFont = LiberationMono-Regular,
+    BoldFont = LiberationMono-Bold,
+    ItalicFont = LiberationMono-Italic,
+    BoldItalicFont = LiberationMono-BoldItalic
+]
+
 \RequirePackage[english,ukrainian]{babel}
 \RequirePackage[a4paper, top=2cm, bottom=2cm, left=2.5cm, right=1cm]{geometry}
 \RequirePackage{indentfirst}
 \RequirePackage[hidelinks]{hyperref}
 \RequirePackage{xcolor}
-\RequirePackage[pdftex]{graphicx}
 \RequirePackage{lipsum}
+\RequirePackage{caption}
+\RequirePackage{graphicx}
+\RequirePackage{float}
+\RequirePackage{cleveref}
+
+% Бібліографія (BibTeX з ugost2008 під вимоги ДСТУ 8302:2015 без довгих тире .—)
+\AtBeginDocument{%
+  \providecommand*{\BibDash}{}%
+  \renewcommand*{\BibDash}{}%
+}
+
+% ГРАФІКА
+\graphicspath{{imgs/}{figures/}}
+\DeclareCaptionLabelFormat{custom}{#1~#2}
+\captionsetup[figure]{
+    name=Рисунок,
+    labelsep=endash,
+    justification=centering,
+    singlelinecheck=true
+}
+\setlength{\intextsep}{12pt plus 2pt minus 2pt}
+\setlength{\textfloatsep}{12pt plus 2pt minus 2pt}
+
+\newcommand{\paddedimage}[2][]{%
+    \vspace{12pt}%
+    \includegraphics[#1]{#2}%
+}
+
+\counterwithin{figure}{chapter}
+\renewcommand{\thefigure}{\thechapter.\arabic{figure}}
+\crefname{figure}{рис.}{рис.}
+\Crefname{figure}{Рис.}{Рис.}
+
+\counterwithin{table}{chapter}
+\renewcommand{\thetable}{\thechapter.\arabic{table}}
+\crefname{table}{табл.}{табл.}
+\Crefname{table}{Таблиця}{Таблиці}
+
+% ЛІСТИНГИ КОДУ
+\RequirePackage{listings}
+\crefname{lstlisting}{ліст.}{ліст.}
+\Crefname{lstlisting}{Лістинг}{Лістинги}
+\lstset{
+    basicstyle=\ttfamily\footnotesize,
+    keepspaces=true,
+    columns=flexible,
+    breaklines=true,
+    breakatwhitespace=true,
+    numbers=left,
+    numberstyle=\color{black},
+    keywordstyle=\color{blue}\bfseries,
+    commentstyle=\color{green!50!black}\itshape,
+    stringstyle=\color{orange!80!black},
+    showstringspaces=false,
+    tabsize=4,
+    captionpos=b,
+    belowskip=0pt,
+    xleftmargin=5ex,
+    framexleftmargin=5ex
+}
+
 % КОЛОНТИТУЛИ
 \RequirePackage{fancyhdr}
 \fancyhf{}
@@ -26,112 +104,151 @@
 \setlength{\parskip}{0pt}
 % Інтервал — полуторний
 \linespread{1.3}
+
+% ПЕРЕЛІКИ (СПИСКИ)
+\RequirePackage{enumitem}
+\setlist[enumerate]{
+    itemsep=0pt,
+    parsep=0pt,
+    topsep=0pt,
+    partopsep=0pt,
+    before=\linespread{1.3}\selectfont
+}
+\setlist[itemize]{
+    itemsep=0pt,
+    parsep=0pt,
+    topsep=0pt,
+    partopsep=0pt,
+    before=\linespread{1.3}\selectfont
+}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Глибина нумерації
 \setcounter{secnumdepth}{3}
 % Глибина змісту
-\setcounter{tocdepth}{2}
+\setcounter{tocdepth}{3}
 % Керування заголовками
 \RequirePackage[raggedright]{titlesec}
 % Керування змістом
 \RequirePackage{titletoc}
-%\titleformat{command}[shape]
-%	{format}
-%	{label}
-%	{sep}
-%	{before-code}
-%	[after-code]
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%	РОЗДІЛ
-\titleformat{\chapter}[display]
-	{\filcenter}
-    {\MakeUppercase{\chaptertitlename} \thechapter}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\titleformat{\chapter}[block]
+    {\filcenter\bfseries}
+    {\MakeUppercase{\thechapter~}}
     {0pt}
-	{\MakeUppercase}
-	{}
+    {\MakeUppercase}[\global\@nure@inheadingfalse]
+
+\titleformat{name=\chapter,numberless}[block]
+    {\filcenter\bfseries}
+    {}
+    {0pt}
+    {\MakeUppercase}[\global\@nure@inheadingfalse]
+
 \assignpagestyle{\chapter}{fancy}
-\titlespacing{\chapter}
-	{0ex}
-	{-30pt}
-	{8pt}
+
+\titlespacing*{\chapter}
+    {0pt}
+    {-30pt}
+    {12pt}
+
+\titlespacing*{name=\chapter,numberless}
+    {0pt}
+    {-30pt}
+    {12pt}
+
 \titlecontents{chapter}
-	[0ex]
-	{}
-	{\bfseries{\chaptername\ \thecontentslabel {}\quad}\bfseries}
-	{}
-	{\dotfill\contentspage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%	ПІДРОЗДІЛ
+    [0pt]
+    {}
+    {\thecontentslabel\;}
+    {}
+    {\dotfill\contentspage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    
 \titleformat{\section}[block]
     {\normalsize}
-    {\thesection\quad}
+    {\thesection}
     {1em}
-    {}
-\titlespacing{\section}
-	{\parindent}
-	{0pt}
-	{0pt}
+    {}[\global\@nure@inheadingfalse]
+
+\titlespacing*{\section}
+    {\parindent}
+    {12pt}
+    {12pt}
+
 \titlecontents{section}
-	[5ex] %
-	{}
-	{\thecontentslabel\quad}
-	{}
-	{\dotfill\contentspage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%	ПУНКТ
+    [1em]
+    {}
+    {\thecontentslabel\;}
+    {}
+    {\dotfill\contentspage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \titleformat{\subsection}[block]
     {\normalsize}
-    {\thesubsection\quad}
+    {\thesubsection}
     {1em}
-    {}
-\titlespacing{\subsection}
-	{\parindent}
-	{12pt}
-	{0pt}
+    {}[\global\@nure@inheadingfalse]
+
+\titlespacing*{\subsection}
+    {\parindent}
+    {12pt}
+    {12pt}
+
 \titlecontents{subsection}
-	[10ex]
-	{}
-	{\thecontentslabel {}\quad}
-	{}
-	{\dotfill\contentspage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%	ПІДПУНКТ
+    [1.75em]
+    {}
+    {\thecontentslabel\;}
+    {}
+    {\dotfill\contentspage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \titleformat{\subsubsection}[block]
     {\normalsize}
-    {\thesubsubsection\quad}
+    {\thesubsubsection}
     {1em}
-    {}
-\titlespacing{\subsubsection}
-	{\parindent}
-	{0pt}
-	{0pt}
+    {}[\global\@nure@inheadingfalse]
+
+\titlespacing*{\subsubsection}
+    {\parindent}
+    {12pt}
+    {12pt}
+
 \titlecontents{subsubsection}
-	[15ex]
-	{}
-	{\thecontentslabel {}\quad}
-	{}
-	{\dotfill\contentspage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% СТРУКТУРНА ЧАСТИНА % Вступ, Висновки і т.п.
-\newcommand{\likechapterheading}[1]{
-	\newpage
-	\begin{center}
-	\MakeUppercase{#1}
-	\end{center}
-	\mbox{}\newline}
+    [3.35em]
+    {}
+    {\thecontentslabel\;}
+    {}
+    {\dotfill\contentspage}
 
-	\makeatletter
-		\renewcommand{\@dotsep}{2}
-		\newcommand{\l@likechapter}[2]{{\@dottedtocline{0}{0pt}{0pt}{\bfseries #1}{#2}}}
-	\makeatother
 
-	\newcommand{\likechapter}[1]{
-		\likechapterheading{#1}
-		\addcontentsline{toc}{likechapter}{{#1}}
-	}
+\newif\if@nure@inheading
+\newif\if@nure@afterheading
+\@nure@afterheadingfalse
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\@headingcheck}{
+    \if@nure@afterheading
+        \vspace*{-12pt}
+    \fi
+    \global\@nure@inheadingtrue
+    \global\@nure@afterheadingtrue
+}
+
+\AddToHook{cmd/chapter/before}{\@headingcheck}
+\AddToHook{cmd/section/before}{\@headingcheck}
+\AddToHook{cmd/subsection/before}{\@headingcheck}
+\AddToHook{cmd/subsubsection/before}{\@headingcheck}
+
+\AddToHook{para/before}{%
+    \if@nure@inheading
+    \else
+        \global\@nure@afterheadingfalse
+    \fi
+}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \RequirePackage{longtable}
 \RequirePackage{caption}
@@ -145,13 +262,13 @@ justification=justified,
 labelsep=endash,
 labelformat=tablecap,
 belowskip=18pt,
-aboveskip=3pt
+aboveskip=0pt
 }
 
 \renewenvironment{table}[4]{
 	\begingroup\centering
-	\setlength{\LTpre}{-14pt}
-	\setlength{\LTpost}{14pt}
+	\setlength{\LTpre}{12pt}
+	\setlength{\LTpost}{12pt}
 	\setlength{\LTcapwidth}{0pt}
 	\begin{longtable}{#1}
 		\kill
@@ -179,10 +296,12 @@ aboveskip=3pt
 \define@cmdkey[CW]{TitlePage}{UniversityName}[Херсонський державний університет]{}
 \define@cmdkey[CW]{TitlePage}{FacultyName}[Факультет фізики, математики та інформатики]{}
 \define@cmdkey[CW]{TitlePage}{DepartmentName}[Назва кафедри]{}
-\define@cmdkey[CW]{TitlePage}{CityOfResearch}[Місто]{}
-\define@cmdkey[CW]{TitlePage}{YearOfResearch}[рік]{}
+\define@cmdkey[CW]{TitlePage}{SicityOfWork}[Місто]{}
+\define@cmdkey[CW]{TitlePage}{YearOfWork}[рік]{}
 %%
-\define@cmdkey[CW]{TitlePage}{ResearchTitle}[\LaTeX{} \,--\, шаблон студентських наукових робіт]{}
+\define@cmdkey[CW]{TitlePage}{WorkTitle}[\LaTeX{} \,--\, шаблон студентських наукових робіт]{}
+\define@cmdkey[CW]{TitlePage}{WorkType}[Практична робота]{}
+\define@cmdkey[CW]{TitlePage}{Subject}[Дисципліна]{}
 \define@cmdkey[CW]{TitlePage}{StudentName}[ПІБ]{}
 \define@cmdkey[CW]{TitlePage}{StudentSex}[male]{}
 \define@cmdkey[CW]{TitlePage}{StudentGroup}[група]{}
@@ -190,6 +309,8 @@ aboveskip=3pt
 \define@cmdkey[CW]{TitlePage}{StudentSpeciality}[Спеціальність]{}
 %%
 \define@cmdkey[CW]{TitlePage}{SupervisorDegree}[професор]{}
+\define@cmdkey[CW]{TitlePage}{SupervisorDepartment}[ПІ]{}
+\define@cmdkey[CW]{TitlePage}{SupervisorSex}[male]{}
 \define@cmdkey[CW]{TitlePage}{SupervisorName}[ПІБ]{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -198,59 +319,48 @@ aboveskip=3pt
 	\thispagestyle{empty}
 %
 	\begin{center}
-		\par\noindent\MakeUppercase{\cmdCW@TitlePage@MinistryName}
-		\par\noindent\MakeUppercase{\cmdCW@TitlePage@UniversityName}
-		\par\noindent\MakeUppercase{\cmdCW@TitlePage@FacultyName}
-		\par\noindent\MakeUppercase{\cmdCW@TitlePage@DepartmentName}
+		\par\noindent\cmdCW@TitlePage@MinistryName
+		\par\noindent\cmdCW@TitlePage@UniversityName
+		\par\noindent\cmdCW@TitlePage@FacultyName
+		\par\noindent\cmdCW@TitlePage@DepartmentName
 		\vfill
-		\par\noindent\MakeUppercase{\cmdCW@TitlePage@ResearchTitle}
+		\par\noindent{\cmdCW@TitlePage@WorkTitle}
+		\par\noindent\cmdCW@TitlePage@WorkType
+		\par\noindent\cmdCW@TitlePage@Subject
 	\end{center}
 %
 	\vfill
 %
-\begin{flushleft}
-	\hyphenpenalty=10000
-	\pretolerance=10000
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\begin{minipage}[t]{1\textwidth}
-		\begin{minipage}[t]{0.3\textwidth}
-			\ifthenelse
-				{\equal{\cmdCW@TitlePage@StudentSex}{male}}
-				{\par\noindent Виконав:}
-				{\par\noindent Виконала:}
-		\end{minipage}
-		\hfill
-		\begin{minipage}[t]{0.5\textwidth}
-			\par\noindent
-			\ifthenelse
-				{\equal{\cmdCW@TitlePage@StudentSex}{male}}
-				{студент}
-				{студентка}
-			\cmdCW@TitlePage@StudentCourse\ курсу \cmdCW@TitlePage@StudentGroup\ групи спеціальності
-			\par\noindent\cmdCW@TitlePage@StudentSpeciality
-			\par\noindent\cmdCW@TitlePage@StudentName
-		\end{minipage}
-	\end{minipage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\bigskip\par\bigskip
-	\begin{minipage}[t]{1\textwidth}
-		\begin{minipage}[t]{0.3\textwidth}
-			\par\noindent Науковий керівник:
-		\end{minipage}
-		\hfill
-		\begin{minipage}[t]{0.5\textwidth}
-			\par\noindent \cmdCW@TitlePage@SupervisorDegree
-			\par\noindent \cmdCW@TitlePage@SupervisorName
-		\end{minipage}
-	\end{minipage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\end{flushleft}
+\noindent
+\begin{minipage}[t]{0.5\textwidth}
+    \hyphenpenalty=10000
+    \pretolerance=10000
+    \ifthenelse
+        {\equal{\cmdCW@TitlePage@StudentSex}{male}}
+        {\noindent Виконав:}
+        {\noindent Виконала:}
+    \par\vspace{0.5ex}\noindent
+    {ст.~гр.~}\cmdCW@TitlePage@StudentGroup
+    \par\noindent
+    \cmdCW@TitlePage@StudentName
+\end{minipage}\hfill
+\begin{minipage}[t]{0.5\textwidth}
+	\raggedleft
+    \hyphenpenalty=10000
+    \pretolerance=10000
+    \ifthenelse
+        {\equal{\cmdCW@TitlePage@StudentSex}{male}}
+        {\noindent Перевірив:}
+        {\noindent Перевірила:}
+    \par\vspace{0.5ex}\noindent
+    \cmdCW@TitlePage@SupervisorDegree\;~каф. \cmdCW@TitlePage@SupervisorDepartment
+    \par\noindent
+    \cmdCW@TitlePage@SupervisorName
+\end{minipage}
 \vfill
 	\begin{center}
-	\cmdCW@TitlePage@CityOfResearch\ \,--\, \cmdCW@TitlePage@YearOfResearch
+	\cmdCW@TitlePage@SicityOfWork\;\cmdCW@TitlePage@YearOfWork
 	\end{center}
 	\pagebreak
 }
 \makeatother
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

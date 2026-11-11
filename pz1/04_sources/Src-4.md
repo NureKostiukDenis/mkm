@@ -5,6 +5,8 @@ Date: 2026-11-11
 Related:
   - "[[GP-3]]"
   - "[[SGP-3]]"
+  - "[[T-1]]"
+  - "[[T-3]]"
 Title: "Experimental Evaluation Methodology for the Era of No Steady Performance"
 Authors:
   - Jaromír Antoch

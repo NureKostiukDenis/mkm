@@ -1,0 +1,107 @@
+\phantomsection
+\chapter{Хід роботи}
+
+\section{Дослідницьке поле}
+
+Дослідницьке поле роботи -- дослідження продуктивності та надійності диспетчеризації віртуальних потоків на платформі JVM в умовах взаємодії з нативним кодом (FFM та JNI) і блокуючими операціями вводу-виводу. Англійською: \foreignlanguage{english}{Performance and scheduling reliability analysis of JVM virtual threads under native boundary interactions (FFM and JNI) and blocking I/O workloads.}
+
+Вибір поля обумовлено особистим інтересом до внутрішньої архітектури віртуальних машин, розробки високонавантажених серверних систем на Java/Kotlin та актуальністю переходу на віртуальні потоки (Project Loom) разом із новим інтерфейсом взаємодії з нативною пам'яттю (Panama FFM API).
+
+Для обрання дослідницького поля виконувався пошук за темами, що відповідали моєму технічному стеку та сфері наукових інтересів (Java/Kotlin, багатопоточність, рантайми, системна оптимізація), по таких наукових репозиторіях і базах даних, як ACM Digital Library, IEEE Xplore, ScienceDirect, Springer, arXiv, Google Scholar, а також інженерних репозиторіях OpenJDK (JEPs). Джерела, використовувані надалі, було також знайдено через них.
+
+\section{Ключові проблеми}
+
+\subsection{Методологія}
+
+Для формування бібліографічної бази та аналізу предметної області використовувався комбінований підхід: пошукова система Perplexity для первинної навігації та модульний булевий (бінарний) пошук у наукометричних базах (ACM Digital Library, IEEE Xplore, ScienceDirect, Springer, arXiv, Google Scholar). 
+Перелік пошукових запитів:
+\begin{itemize}[wide]
+    \item Базова поведінка диспетчера та масштабованість:
+    \begin{itemize}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "carrier starvation"}
+        \item \foreignlanguage{english}{"Project Loom" AND "tail latency"}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "scalability"}
+    \end{itemize}
+    \item Нативний пінінг та міграція (JNI / FFM API):
+    \begin{itemize}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "carrier pinning" AND "JNI"}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "FFM" AND "pinning"}
+        \item \foreignlanguage{english}{"Foreign Function Memory" AND "JNI" AND "benchmark"}
+    \end{itemize}
+    \item Еволюція моніторів синхронізації (JEP 491 / JDK 24+):
+    \begin{itemize}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "JEP 491"}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "synchronized" AND "pinning"}
+        \item \foreignlanguage{english}{"residual pinning" AND "JDK 24"}
+    \end{itemize}
+    \item Міжрівнева телеметрія та моделювання:
+    \begin{itemize}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "eBPF" AND "scheduler"}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "queueing model"}
+        \item \foreignlanguage{english}{"Virtual Threads" AND "JFR" AND "pinning"}
+    \end{itemize}
+\end{itemize}
+
+\subsection{Знайдені корисні джерела}
+
+\subsection{Виявлені проблеми}
+
+\begin{enumerate}
+    \item ...
+\end{enumerate}
+
+\section{Перевірені дослідницькі прогалини}
+
+\section{Формування тем}
+
+\subsection{Тема A (аналітична-теоритична)}
+
+\subsection{Тема B (інженерна)}
+
+\subsection{Тема C (міждисплінарна)}
+
+\section{Порівняння тем}
+
+\section{Peer review}
+
+\subsection{Відгуки щодо теми A}
+
+\subsection{Відгуки щодо теми B}
+
+\subsection{Відгуки щодо теми C}
+
+\section{Decision Matrix}
+
+
+Зведені показники порівняльного аналізу алгоритмів наведено в табл.~\ref{tab:benchmarks}. Зверніть увагу: \cref{tab:benchmarks} займає більше однієї сторінки, демонструючи автоматичний механізм розриву.
+
+\begin{table}{|c|p{10cm}|c|c|}
+{Результати комплексного порівняльного аналізу параметрів системи}
+{tab:benchmarks}
+{\hline № & Найменування тестового параметра & Метод А & Метод Б \\ \hline}
+1 & Час первинної ініціалізації обчислювального середовища (мс) & 14.2 & 9.8 \\ \hline
+2 & Базовий обсяг оперативної пам'яті для кешування (МБ) & 64.0 & 48.5 \\ \hline
+3 & Пропускна здатність вхідного потоку транзакцій (тис./с) & 1250 & 1480 \\ \hline
+4 & Затримка обробки критичних повідомлень під час піку (мс) & 3.2 & 2.1 \\ \hline
+5 & Рівень навантаження на обчислювальні ядра процесора (\%) & 78.4 & 62.1 \\ \hline
+6 & Середнє питоме енергоспоживання вузла кластера (Вт) & 46.2 & 38.0 \\ \hline
+7 & Часова складність обробки у найкращому сценарії & $O(n)$ & $O(1)$ \\ \hline
+8 & Часова складність обробки в середньому сценарії & $O(n \log n)$ & $O(n)$ \\ \hline
+9 & Часова складність обробки у найгіршому сценарії & $O(n^2)$ & $O(n \log n)$ \\ \hline
+10 & Просторова складність алгоритмічної моделі & $O(n)$ & $O(1)$ \\ \hline
+11 & Стабільність збереження порядку пар еквівалентних ключів & Так & Ні \\ \hline
+12 & Рівень горизонтального масштабування обчислень & Високий & Помірний \\ \hline
+13 & Чутливість структури даних до фрагментації пам'яті & Низька & Середня \\ \hline
+14 & Частота влучань у дворівневий кеш процесора L1/L2 (\%) & 94.1 & 89.6 \\ \hline
+15 & Швидкість деградації продуктивності при апаратних збоях & 3.8\% & 6.5\% \\ \hline
+16 & Кількість операцій порівняння на контрольний блок (тис.) & 8.45 & 6.20 \\ \hline
+17 & Кількість операцій перестановки на блок (тис.) & 2.10 & 1.85 \\ \hline
+18 & Час обробки масиву розмірністю $N = 10^4$ (мс) & 4.2 & 3.1 \\ \hline
+19 & Час обробки масиву розмірністю $N = 10^5$ (мс) & 48.6 & 35.8 \\ \hline
+20 & Час обробки масиву розмірністю $N = 10^6$ (мс) & 580.2 & 418.4 \\ \hline
+21 & Час обробки попередньо впорядкованого масиву (мс) & 12.1 & 8.2 \\ \hline
+22 & Час обробки масиву, впорядкованого у зворотному напрямку (мс) & 710.4 & 538.1 \\ \hline
+23 & Вплив типу даних на загальну тривалість виконання & Низький & Помірний \\ \hline
+24 & Надійність збереження стану транзакцій при відмові (\%) & 99.99 & 99.95 \\ \hline
+25 & Загальний приріст продуктивності після оптимізації & +34.5\% & +41.8\% \\ \hline
+\end{table}

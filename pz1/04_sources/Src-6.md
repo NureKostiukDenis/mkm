@@ -5,6 +5,7 @@ Date: 2026-11-11
 Related:
   - "[[GP-3]]"
   - "[[SGP-3]]"
+  - "[[T-3]]"
 Title: "Fray: An Efficient General-Purpose Concurrency Testing Platform for the JVM"
 Authors:
   - Ao Li

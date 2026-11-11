@@ -5,6 +5,9 @@ Date: 2026-11-11
 Related:
   - "[[GP-3]]"
   - "[[SGP-3]]"
+  - "[[T-1]]"
+  - "[[T-2]]"
+  - "[[T-3]]"
 Title: "Misleading Microbenchmarks on the Java Virtual Machines"
 Authors:
   - Filippo Schiavio

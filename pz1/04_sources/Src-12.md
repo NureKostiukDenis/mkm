@@ -5,6 +5,10 @@ Date: 2026-11-11
 Related:
   - "[[GP-1]]"
   - "[[SGP-1]]"
+  - "[[GP-3]]"
+  - "[[SGP-3]]"
+  - "[[T-2]]"
+  - "[[T-3]]"
 Title: "Java Threading Options in 2026: Platform vs Virtual Threads"
 Authors:
   - Ronald Dehuysser
