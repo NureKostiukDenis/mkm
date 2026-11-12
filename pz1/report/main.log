@@ -1,6 +1,5 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026/Arch Linux)  (format=lualatex 2026.11.4)  12 NOV 2026 02:06
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026/Arch Linux)  (format=lualatex 2026.11.4)  12 NOV 2026 03:42
  restricted system commands enabled.
- file:line:error style messages enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2025-11-01>
@@ -954,103 +953,431 @@ Underfull \hbox (badness 1014) in paragraph at lines 71--72
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-\TU/FreeSerif(0)/m/n/14.4 Звер-ніть ува-гу: табл. []1.1[] з
-а-ймає біль-ше одні-єї сто-рін-ки, де-мон-стр
-у-ю-чи
+Underfull \hbox (badness 1824) in paragraph at lines 76--77
+[]\TU/FreeSerif(0)/m/n/14.4 Ре-зуль-та-ти ве-ри-фі-ка-ції 
+ви-яв-ле-них до-слі-дни-цьких про-га-лин за п
+ра-ви-лом
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 103--103
-[]|\TU/FreeSerif(0)/m/n/14.4 Час пер-вин-ної іні-ці-а-лі-
-за-ції об-чи-слю-валь-но-го
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\TU/FreeSerif(0)/b/n/14.4 GEC-1\TU/FreeSerif(0)/m/n/14.4 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-[]|\TU/FreeSerif(0)/m/n/14.4 Ба-зо-вий об-сяг опе-ра-тив-
-ної пам’яті для
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 Енер-гія VT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]|\TU/FreeSerif(0)/m/n/14.4 Про-пу-скна зда-тність вхі-
-дно-го по-то-ку
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 енер-го-ефе-ктив-но-сті
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 107--107
-[]|\TU/FreeSerif(0)/m/n/14.4 Рі-вень на-ван-та-же-н-ня на 
-об-чи-слю-валь-ні ядра
+Underfull \hbox (badness 5091) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 вір-ту-аль-них по-то-ків
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]|\TU/FreeSerif(0)/m/n/14.4 Се-ре-днє пи-то-ме енер-го-с
-по-жи-ва-н-ня ву-зла
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 на ізо-льо-ва-них
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
-[]|\TU/FreeSerif(0)/m/n/14.4 Ча-со-ва скла-дність оброб-
-ки у най-кра-що-му
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 не-до-слі-дже-ним
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]|\TU/FreeSerif(0)/m/n/14.4 Ча-со-ва скла-дність оброб-
-ки в се-ре-дньо-му
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 їхнє пи-то-ме
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--111
-[]|\TU/FreeSerif(0)/m/n/14.4 Ча-со-ва скла-дність оброб-
-ки у най-гір-шо-му
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 енер-го-спо-жи-ва-н-ня
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\TU/FreeSerif(0)/m/n/14.4 Ста-біль-ність збе-ре-же-н-н
-я по-ряд-ку пар
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 під час де-гра-да-ції
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]|\TU/FreeSerif(0)/m/n/14.4 Рі-вень го-ри-зон-таль-но-го 
-мас-шта-бу-ва-н-ня
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 су-пу-тніх пу-лів
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]|\TU/FreeSerif(0)/m/n/14.4 Швид-кість де-гра-да-ції пр
-о-ду-ктив-но-сті при
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 ре-сур-сів та
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-[]|\TU/FreeSerif(0)/m/n/14.4 Час оброб-ки по-пе-ре-дньо в
-по-ряд-ко-ва-но-го
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\TU/FreeSerif(0)/m/n/14.4 Не-мо-жли-во до-ве-сти за до-
+по-мо-гою
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-[]|\TU/FreeSerif(0)/m/n/14.4 Час оброб-ки ма-си-ву, впо-р
-яд-ко-ва-но-го у
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 пра-ви-ла три-ан-гу-ля-ції (у н
+а-яв-ній
  []
 
 
-Underfull \hbox (badness 6876) in paragraph at lines 125--125
-[]|\TU/FreeSerif(0)/m/n/14.4 Вплив ти-пу да-них на за-гал
-ь-ну три-ва-лість
+Underfull \hbox (badness 6396) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 до-ка-зо-вій ба-зі мен-ше 3 дже-
+рел із
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
-[]|\TU/FreeSerif(0)/m/n/14.4 За-галь-ний при-ріст про-ду-
-ктив-но-сті пі-сля
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 DOI; про-ми-сло-ві зві-ти [Src-10],
  []
 
-./body.tex:128: ignored: Infinite glue shrinkage found in box being split
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 [Src-12] та спе-ци-фі-ка-ція [Src-11]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 не ма-ють DOI). Під-твер-джу-ю-ч
+і
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 дже-ре-ла з DOI: [Src-9] (DOI:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]$\TU/LiberationMono(0)/m/n/14.4 https://doi.org/10.1016/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/LiberationMono(0)/m/n/14.4 j.jss.2026.112963$[]\TU/FreeSerif(0)/m/n/14.4 ) 
+фі-ксує
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 82--82
+\TU/FreeSerif(0)/m/n/14.4 енер-го-збе-ре-же-н-ня ли-ше д
+ля чи-стих
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\TU/LiberationMono(0)/m/n/14.4 //doi.org/10.1145/3847668$[]\TU/FreeSerif(0)/m/n
+/14.4 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\TU/FreeSerif(0)/b/n/14.4 GEC-2\TU/FreeSerif(0)/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 Джит-тер і
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 пла-ну-ва-н-ня на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]|\TU/FreeSerif(0)/m/n/14.4 Те-о-ре-ти-чний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 ана-ліз по-ши-ре-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 ча-со-во-го джи-те-ру
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 в лан-цюж-ках
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 пе-рі-о-ди-чних
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 зав-дань та
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 енер-го-ефе-ктив-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 дис-пе-тче-ри-зу-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 на про-це-со-рах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 ARM big.LITTLE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 роз-ви-ва-ю-ться
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 трьо-ма не-за-ле-жни-ми ре-цен-
+зо-ва-ни-ми
+ []
+
+
+Underfull \hbox (badness 7030) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 джи-те-ру кон-ве-є-рів аб-стра-
+го-ва-ні від
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 DOI: []$\TU/LiberationMono(0)/m/n/14.4 https://doi.org
+/10.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/LiberationMono(0)/m/n/14.4 1109/RTSS66672.2025.00017$[]\TU/FreeSerif(0)/m/n
+/14.4 );
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 2) ал-го-ри-тми пла-ну-ва-н-ня н
+а
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 big.LITTLE опти-мі-зу-ють де-длай-
+ни
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 без кон-тро-лю фа-зо-во-го джи-
+те-ру
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/LiberationMono(0)/m/n/14.4 10.1109/JIOT.2025.3568691$[]\TU/FreeSerif(0)/m/n
+/14.4 ;
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 [Src-18], DOI: []$\TU/LiberationMono(0)/m/n/14.4 https
+://doi.org/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/LiberationMono(0)/m/n/14.4 10.1145/3716368.3735195$[]\TU/FreeSerif(0)/m/n/1
+4.4 );
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 3) си-стем-ні огля-ди під-твер-
+джу-ють
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 ме-три-чний роз-рив між де-дл
+ай-на-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+\TU/FreeSerif(0)/m/n/14.4 та енер-гі-єю ([Src-16], DOI:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[]$\TU/LiberationMono(0)/m/n/14.4 https://doi.org/10.1016/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\TU/FreeSerif(0)/b/n/14.4 GEC-3\TU/FreeSerif(0)/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 На-тив-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\TU/FreeSerif(0)/m/n/14.4 Не-зва-жа-ю-чи
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 на усу-не-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 мо-ні-тор-но-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 пі-нін-гу в JDK 24,
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 бар’єру FFM API у
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 по-рів-нян-ні з JNI та
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 вводом-виводом
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 за-ли-ша-є-ться
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 екс-пе-ри-мен-таль-но
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 не-роз-чле-но-ва-ною в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 умо-вах на-си-че-н-ня
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 трьо-ма не-за-ле-жни-ми ре-цен-
+зо-ва-ни-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 або ма-ску-ють де-гра-да-цію п
+у-лу
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 со-ке-та-ми ([Src-1], DOI: []$\TU/LiberationM
+ono(0)/m/n/14.4 https:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/LiberationMono(0)/m/n/14.4 //doi.org/10.1145/3847668$[]\TU/FreeSerif(0)/m/n
+/14.4 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 [Src-8], DOI: []$\TU/LiberationMono(0)/m/n/14.4 https:
+//doi.org/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 не-ре-пре-зен-та-тив-ність із
+о-льо-ва-них
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 мі-кро-те-стів на-тив-но-го пе-
+ре-хо-ду
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 че-рез спо-тво-ре-н-ня JIT-проф
+ілів
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 ([Src-2], DOI: []$\TU/LiberationMono(0)/m/n/14.4 https
+://doi.org/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/LiberationMono(0)/m/n/14.4 10.1145/3748522.3779882$[]\TU/FreeSerif(0)/m/n/1
+4.4 );
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 3) до-ве-де-но не-ста-ціо-нар-н
+ість
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 фаз JVM, що спро-сто-вує на-їв-н
+і
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 се-ре-дні оцін-ки де-гра-да-ці
+ї пу-лу
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\TU/FreeSerif(0)/m/n/14.4 но-сі-їв ([Src-4], DOI: []$\TU/LiberationMono(0
+)/m/n/14.4 https:
+ []
+
+ignored: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -1059,7 +1386,7 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
 
 [4]
-./body.tex:128: ignored: Infinite glue shrinkage found in box being split
+ignored: Infinite glue shrinkage found in box being split
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -1067,7 +1394,13 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
 
-[5])
+[5]
+Underfull \hbox (badness 2126) in paragraph at lines 89--90
+\TU/FreeSerif(0)/m/n/14.4 за до-по-мо-гою ви-клю-че-н-ня. 
+\TU/FreeSerif(0)/b/n/14.4 GEC-1 \TU/FreeSerif(0)/m/n/14.4 -- від-па-ла, 
+бо не-до-во-ди-ться за пра-ви-лом
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -1076,8 +1409,79 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
 
 [6]
-\openout2 = conclusion.aux
- (./conclusion.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]\TU/FreeSerif(0)/b/n/14.4 За-го-ло-вок (UA): \TU/FreeSerif(0)/m/n/14
+.4 Ана-лі-ти-чне мо-де-лю-ва-н-ня та екс-пе-ри-
+мен-таль-на
+ []
+
+
+Underfull \hbox (badness 8132) in paragraph at lines 95--96
+\TU/FreeSerif(0)/m/n/14.4 ве-ри-фі-ка-ція бло-ку-ва-н-ня 
+пу-лу потоків-носіїв вір-ту-аль-них по-то-кі
+в на ме-жі
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 99--100
+\TU/FreeSerif(0)/m/n/14.4 про-грам-но-го за-без-пе-че-н-
+ня (спе-ці-аль-ність 121) -- ма-те-ма-ти-чне та і
+мі-та-цій-не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[]\TU/FreeSerif(0)/b/n/14.4 На-у-ко-ва про-бле-ма: \TU/FreeSerif
+(0)/m/n/14.4 Пе-ре-хід від за-ста-рі-ло-го Java Native Inte
+rface
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 101--102
+\TU/FreeSerif(0)/m/n/14.4 (JNI) до но-во-го Foreign Function and Memory (FFM) API 
+змі-нює ме-ха-ні-ку
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+\TU/FreeSerif(0)/m/n/14.4 та екс-пе-ри-мен-таль-но не-до-
+слі-дже-ною що-до ри-зи-ків го-ло-ду-ва-н-ня п
+у-лу
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 101--102
+\TU/FreeSerif(0)/m/n/14.4 потоків-носіїв (carrier-pool starvation) 
+у мо-де-лі ви-ко-на-н-ня вір-ту-аль-них по-то-
+ків
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+\TU/FreeSerif(0)/m/n/14.4 стан-дар-тно-го ко-опе-ра-тив-
+но-го бло-ку-ва-н-ня (не-бло-ку-ю-чий ме-ре-же-
+вий I/O,
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 101--102
+\TU/LiberationMono(0)/m/n/14.4 LockSupport.parkNanos\TU/FreeSerif(0)/m/n/14.4 ),
+ на-тив-ні стек-фрейми C/C++ ABI при-му-со-во
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 101--102
+\TU/FreeSerif(0)/m/n/14.4 за-крі-плю-ють потік-носій (carri
+er pinning). Це спри-чи-няє не-лі-ній-ну де-гра-да-
+цію
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]\TU/FreeSerif(0)/m/n/14.4 Нор-ма-тив-на спе-ци-фі-ка-ці
+я OpenJDK JEP 491 ([Src-11]): де-кла-рує
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (14.0pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -1085,11 +1489,1734 @@ Package fancyhdr Warning: \headheight is too small (14.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
 
-[7
+[7]
+Underfull \hbox (badness 7851) in paragraph at lines 111--112
+\TU/FreeSerif(0)/m/n/14.4 ма-те-ма-ти-чна мо-дель те-о-р
+ії черг із за-мкне-ни-ми ана-лі-ти-чни-ми фор-
+му-ла-ми
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 111--112
+\TU/FreeSerif(0)/m/n/14.4 та кон-тро-льо-ва-не екс-пе-ри-
+мен-таль-не зі-став-ле-н-ня JNI, Panama FFM, на-тив-
+них
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 111--112
+\TU/FreeSerif(0)/m/n/14.4 callbacks, фай-ло-во-го I/O, со-ке-тн
+о-го I/O і син-те-ти-чно-го бло-ку-ва-н-ня в умо-
+вах
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/FreeSerif(0)/m/n/14.4 потоків-носіїв вір-ту-аль-ни
+х по-то-ків при одно-ча-сно-му ви-ко-нан-ні н
+а-тив-них
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+[]\TU/FreeSerif(0)/b/n/14.4 Пре-дмет до-слі-дже-н-ня: \TU/Fre
+eSerif(0)/m/n/14.4 Ма-те-ма-ти-чні мо-де-лі те-о-рії м
+а-со-во-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\TU/FreeSerif(0)/b/n/14.4 RQ1: \TU/FreeSerif(0)/m/n/14.4 На-скіль-к
+и то-чно ба-га-то-кла-со-ва мо-дель те-о-рії м
+а-со-во-го
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 119--120
+\TU/FreeSerif(0)/m/n/14.4 в чер-зі, ко-ли вір-ту-аль-ні п
+о-то-ки ви-ко-ну-ють су-міш від-мон-то-ву-ва-н
+их опе-ра-цій,
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 119--120
+\TU/FreeSerif(0)/m/n/14.4 опе-ра-цій із ком-пен-са-ці-єю 
+по-то-ків та не-від-мон-то-ву-ва-них на-тив-н
+их фрей-мів
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 120--121
+[]\TU/FreeSerif(0)/b/n/14.4 RQ2: \TU/FreeSerif(0)/m/n/14.4 Якою мі-ро
+ю ар-хі-те-ктур-ний пе-ре-хід від JNI до FFM змі-
+щує
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\TU/FreeSerif(0)/m/n/14.4 час пе-ре-бу-ва-н-ня за-дач у ч
+ер-зі спіль-но-го пу-лу но-сі-їв під-по-ряд-к
+о-ву-є-ться
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 125--127
+\TU/FreeSerif(0)/m/n/14.4 на-стає при до-ся-гнен-ні кри-
+ти-чної ін-тен-сив-но-сті $\OML/cmm/m/it/14.4 []$\TU/FreeSe
+rif(0)/m/n/14.4 , ко-ли час-тка за-крі-пле-них
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 125--127
+\TU/FreeSerif(0)/m/n/14.4 для на-тив-них callbacks оби-два і
+н-тер-фей-си де-мон-стру-ють іден-ти-чні аси
+м-пто-ти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[]\TU/FreeSerif(0)/b/n/14.4 Ме-та до-слі-дже-н-ня: \TU/FreeSerif
+(0)/m/n/14.4 Роз-ро-би-ти та екс-пе-ри-мен-таль-но 
+пе-ре-ві-ри-ти
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 128--129
+\TU/FreeSerif(0)/m/n/14.4 ма-те-ма-ти-чну мо-дель чер-ги, 
+яка до-зво-ляє роз-ра-хо-ву-ва-ти кван-ти-лі 
+за-три-мок і
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 132--133
+[]\TU/FreeSerif(0)/m/n/14.4 Фор-ма-лі-зу-ва-ти ста-ни пе-
+ре-хо-дів дис-пе-тче-ра вір-ту-аль-них по-то-
+ків JVM
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 132--133
+\TU/FreeSerif(0)/m/n/14.4 (\TU/LiberationMono(0)/m/n/14.4 ForkJoinPool \TU/Free
+Serif(0)/m/n/14.4 carrier pool та ме-ха-нізм ком-пен-са-ці
+ї бло-ку-вань) в умо-вах
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 132--133
+\TU/FreeSerif(0)/m/n/14.4 ко-опе-ра-тив-но-го від-мон-ту-
+ва-н-ня, роз-ши-ре-н-ня пу-лу, мо-ні-тор-но-го 
+та на-тив-но-го
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 134--135
+\TU/FreeSerif(0)/m/n/14.4 із фі-кса-ці-єю се-ман-ти-ки з
+а-дач і ре-сур-сних бю-дже-тів, ва-рі-ю-ю-чи в
+ер-сію JVM
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 135--136
+\TU/FreeSerif(0)/m/n/14.4 ура-ху-ва-н-ням усу-не-н-ня си-
+стем-но-го шу-му та не-ста-ціо-нар-но-сті JVM, 
+ви-ко-на-ти
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\TU/FreeSerif(0)/m/n/14.4 під-гон-ку ем-пі-ри-чних кри-в
+их до те-о-ре-ти-чної мо-де-лі та оці-ни-ти то-
+чність
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+[]\TU/FreeSerif(0)/b/n/14.4 На-у-ко-ва но-ви-зна: \TU/FreeSerif(0
+)/m/n/14.4 Сфор-му-льо-ва-но пер-шу ем-пі-ри-чно в
+е-ри-фі-ко-ва-ну
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 138--139
+\TU/FreeSerif(0)/m/n/14.4 ана-лі-ти-чну мо-дель ма-со-во-
+го об-слу-го-ву-ва-н-ня, яка ма-те-ма-ти-чно і
+зо-лює вне-сок
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[9]
+Underfull \hbox (badness 3260) in paragraph at lines 140--141
+[]\TU/FreeSerif(0)/b/n/14.4 Пра-кти-чне зна-че-н-ня: \TU/FreeS
+erif(0)/m/n/14.4 Отри-ма-н-ня за-мкне-них ана-лі-ти-
+чних фор-мул та
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 140--141
+\TU/FreeSerif(0)/m/n/14.4 ін-же-нер-но-го каль-ку-ля-то-
+ра кри-ти-чно-го на-ван-та-же-н-ня ($\OML/cmm/m/it/14.4
+ []$\TU/FreeSerif(0)/m/n/14.4 ) для ар-хі-те-кто-рів
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 142--143
+[]\TU/FreeSerif(0)/b/n/14.4 Ме-то-до-ло-гія та ме-то-ди д
+о-слі-дже-н-ня: \TU/FreeSerif(0)/m/n/14.4 Ана-лі-ти-чна т
+е-о-рія ма-со-во-го
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 142--143
+\TU/FreeSerif(0)/m/n/14.4 об-слу-го-ву-ва-н-ня (ба-га-то-
+кла-со-ві си-сте-ми черг із сер-ве-ра-ми утри-
+ма-н-ня, ме-тод
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+\TU/FreeSerif(0)/m/n/14.4 чи-сто ке-ро-ва-ні бло-ку-ва-н-
+ня (\TU/LiberationMono(0)/m/n/14.4 LockSupport.parkNanos\TU/FreeSerif(0)/m/n/
+14.4 ) та син-те-ти-чні
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 146--147
+[]\TU/FreeSerif(0)/b/n/14.4 Ме-три-ки оцін-ки: \TU/FreeSerif(0)/m/
+n/14.4 Те-о-ре-ти-чні: се-ре-дня аб-со-лю-тна від-
+со-тко-ва по-хиб-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\TU/FreeSerif(0)/m/n/14.4 (MAPE) та ко-е-фі-ці-єнт де-тер-м
+і-на-ції ($\OML/cmm/m/it/14.4 R[]$\TU/FreeSerif(0)/m/n/14.4 ) між а
+на-лі-ти-чним про-гно-зом і
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 146--147
+\TU/FreeSerif(0)/m/n/14.4 ви-мі-рю-ва-н-ня-ми. Ем-пі-ри-ч
+ні: про-пу-скна зда-тність (ops/sec), за-трим-ки $\
+OML/cmm/m/it/14.4 P[]$\TU/FreeSerif(0)/m/n/14.4 , $\OML/cmm/m/it/14.4 P[]$\TU/F
+reeSerif(0)/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 148--149
+\TU/FreeSerif(0)/m/n/14.4 GCC/Clang, Make, JMH, JFR, HdrHistogram, Python 3 (Sym
+Py, NumPy, SciPy,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+[]\TU/FreeSerif(0)/b/n/14.4 За-гро-зи ва-лі-дно-сті: \TU/FreeS
+erif(0)/m/n/14.4 Вну-трі-шня -- спо-тво-ре-н-ня роз-п
+о-ді-лу за-три-мок
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 150--151
+\TU/FreeSerif(0)/m/n/14.4 ізо-льо-ва-них JMH-тестів (мі-н
+і-мі-за-ція че-рез фо-но-ве на-ван-та-же-н-ня 
+за [Src-2]);
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 150--151
+\TU/FreeSerif(0)/m/n/14.4 зов-ні-шня -- одно-про-це-сор-н
+а ар-хі-те-кту-ра x86_-64 без ура-ху-ва-н-ня за-т
+ри-мок
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[10]
+Underfull \hbox (badness 1590) in paragraph at lines 152--153
+\TU/FreeSerif(0)/m/n/14.4 па-ра-ле-лі-зму но-сі-їв та 3 т
+ри-ва-ло-стях бло-ку-ва-н-ня. Stretch Goal -- роз-ши-
+ре-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+[]\TU/FreeSerif(0)/b/n/14.4 Кри-те-рій фаль-си-фі-ко-ва-н
+о-сті: \TU/FreeSerif(0)/m/n/14.4 Ви-яв-ле-н-ня вже опу-бл
+і-ко-ва-ної
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 154--155
+\TU/FreeSerif(0)/m/n/14.4 ве-ри-фі-ко-ва-ної ма-те-ма-ти-
+чної мо-де-лі черг для пі-нін-гу на-тив-них call
+backs у
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+[]\TU/FreeSerif(0)/b/n/14.4 Об-ґрун-ту-ва-н-ня ви-бо-ру т
+а ри-зи-ки те-ми: \TU/FreeSerif(0)/m/n/14.4 Гли-бо-кий те-
+о-ре-ти-чний
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 156--157
+\TU/FreeSerif(0)/m/n/14.4 фун-да-мент (спе-ці-аль-ність 12
+2), що по-єд-нує кла-си-чну при-кла-дну ма-те-м
+а-ти-ку
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 156--157
+\TU/FreeSerif(0)/m/n/14.4 з си-стем-ни-ми ме-ха-ні-зма-м
+и ядра JVM, га-ран-тує ви-со-ку на-у-ко-ву но-ви-
+зну та
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 156--157
+\TU/FreeSerif(0)/m/n/14.4 пу-блі-ка-бель-ність ре-зуль-
+та-тів у фа-хо-вих ви-да-н-нях. Го-лов-ний ри-
+зик по-ля-гає
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 156--157
+\TU/FreeSerif(0)/m/n/14.4 у ма-те-ма-ти-чній скла-дно-ст
+і: ана-лі-ти-чні рів-ня-н-ня ба-га-то-кла-со-в
+их СМО для
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 156--157
+\TU/FreeSerif(0)/m/n/14.4 не-екс-по-нен-цій-них роз-по-д
+і-лів ча-су бло-ку-ва-н-ня мо-жуть ста-ти не-р
+озв’язни-ми в
+ []
+
+
+Underfull \hbox (badness 6016) in paragraph at lines 160--161
+\TU/FreeSerif(0)/m/n/14.4 на ви-рі-ше-н-ня пра-кти-чних 
+про-блем стій-ко-сті (resilience) та про-ду-ктив-н
+о-сті
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\TU/FreeSerif(0)/m/n/14.4 ви-со-ко-на-ван-та-же-них беке
+нд-систем на ба-зі JVM. Во-на зо-се-ре-дже-на н
+а
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 160--161
+\TU/FreeSerif(0)/m/n/14.4 ем-пі-ри-чно-му до-слі-джен-ні 
+вза-єм-но-го впли-ву на-тив-них ви-кли-ків FFM/JN
+I та
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 160--161
+\TU/FreeSerif(0)/m/n/14.4 опе-ра-цій вводу-виводу на сп
+іль-ний пул потоків-носіїв вір-ту-аль-них п
+о-то-ків, а
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+[]\TU/FreeSerif(0)/b/n/14.4 За-го-ло-вок (UA): \TU/FreeSerif(0)/m/n/14
+.4 Екс-пе-ри-мен-таль-не до-слі-дже-н-ня про-д
+у-ктив-но-сті та
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\TU/FreeSerif(0)/m/n/14.4 121), ар-хі-те-кту-ра про-грам-н
+их си-стем, ви-со-ко-про-ду-ктив-ні об-чи-сле-
+н-ня на
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 173--174
+[]\TU/FreeSerif(0)/m/n/14.4 У до-слі-дже-н-нях InfoQ ([Src-10]) 
+про-де-мон-стро-ва-но яви-ще «змі-ще-н-ня
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 175--176
+\TU/FreeSerif(0)/m/n/14.4 для па-ке-тних на-ван-та-жень), 
+що до-во-дить: си-стем-на де-гра-да-ція при в
+за-є-мо-дії
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[12]
+Underfull \hbox (badness 5133) in paragraph at lines 180--181
+[]\TU/FreeSerif(0)/b/n/14.4 Об’єкт до-слі-дже-н-ня: \TU/FreeS
+erif(0)/m/n/14.4 Ви-со-ко-на-ван-та-же-ні про-грам-н
+і си-сте-ми на ба-зі
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+\TU/FreeSerif(0)/m/n/14.4 го-ло-ду-ван-ню пу-лу но-сі-їв (
+се-ма-фор-ні перегородки-bulkheads, ви-ді-ле-ні п
+у-ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+[]\TU/FreeSerif(0)/b/n/14.4 RQ1: \TU/FreeSerif(0)/m/n/14.4 За одна-ко-
+вої се-ман-ти-ки ко-ду та ре-сур-сних обме-же
+нь, як
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 186--187
+\TU/FreeSerif(0)/m/n/14.4 про-це-со-ра та хво-сто-вою за-
+трим-кою при мас-шта-бу-ван-ні три-ва-ло-сті 
+на-тив-но-го
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 188--189
+[]\TU/FreeSerif(0)/b/n/14.4 RQ3: \TU/FreeSerif(0)/m/n/14.4 Чи зда-тні 
+лег-ко-ва-жні при-кла-дні про-грам-ні обгор-
+тки (ада-птив-ні
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 191--192
+\TU/FreeSerif(0)/m/n/14.4 ви-кли-ку по-рів-ня-но з JNI для 
+мі-кро-се-кун-дних опе-ра-цій, про-те за три-
+ва-ло-го
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 191--192
+\TU/FreeSerif(0)/m/n/14.4 бло-ку-ва-н-ня та на-яв-но-сті 
+на-тив-них callbacks оби-два ін-тер-фей-си ви-кли-
+ка-ють
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 191--192
+\TU/FreeSerif(0)/m/n/14.4 одна-ко-вий ка-та-стро-фі-чни
+й ріст за-три-мок $\OML/cmm/m/it/14.4 P[]$ \TU/FreeSerif(0)/m/n/14
+.4 у су-сі-дніх со-ке-тних по-то-ках,
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 191--192
+\TU/FreeSerif(0)/m/n/14.4 якщо кіль-кість за-дач пе-ре-
+ви-щує па-ра-ле-лізм но-сі-їв; за-сто-су-ва-н-
+ня обме-же-но-го
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 191--192
+\TU/FreeSerif(0)/m/n/14.4 від-нов-лює за-трим-ку $\OML/cmm/m/i
+t/14.4 P[]$ \TU/FreeSerif(0)/m/n/14.4 со-ке-тно-го I/O до рів-н
+я ізо-льо-ва-но-го ви-ко-на-н-ня,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+[]\TU/FreeSerif(0)/b/n/14.4 Ме-та до-слі-дже-н-ня: \TU/FreeSerif
+(0)/m/n/14.4 Роз-роб-ка від-тво-рю-ва-но-го ба-га-т
+о-фа-ктор-но-го
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 193--194
+\TU/FreeSerif(0)/m/n/14.4 бен-чмар-кін-го-во-го ком-пле-
+ксу для ви-зна-че-н-ня то-чних екс-плу-а-та-ц
+ій-них меж
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[13]
+Underfull \hbox (badness 2865) in paragraph at lines 198--199
+[]\TU/FreeSerif(0)/m/n/14.4 Про-ве-сти си-сте-ма-ти-чний 
+ба-га-то-фа-ктор-ний екс-пе-ри-мент за ма-три-
+цею
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 200--201
+\TU/FreeSerif(0)/m/n/14.4 ада-птив-ний тю-нінг) і сфор-м
+у-ва-ти пра-кти-чне де-ре-во прийня-т-тя рі-ш
+ень для
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 205--206
+[]\TU/FreeSerif(0)/b/n/14.4 Пра-кти-чне зна-че-н-ня: \TU/FreeS
+erif(0)/m/n/14.4 Ство-ре-но від-кри-тий мо-дуль-ний 
+те-сто-вий стенд
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 207--208
+[]\TU/FreeSerif(0)/b/n/14.4 Ме-то-до-ло-гія та ме-то-ди д
+о-слі-дже-н-ня: \TU/FreeSerif(0)/m/n/14.4 Екс-пе-ри-мен-т
+аль-на ін-же-не-рія
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/FreeSerif(0)/m/n/14.4 про-грам-но-го за-без-пе-че-н-
+ня: кон-тро-льо-ва-не ла-бо-ра-тор-не бен-чма
+р-ку-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+\TU/FreeSerif(0)/m/n/14.4 (JMH для мі-кро-те-стів, ка-стом-
+ний ге-не-ра-тор за-кри-то-го/від-кри-то-го ц
+и-клу
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+[]\TU/FreeSerif(0)/b/n/14.4 Ба-зо-вий рі-вень (Baseline) та в
+и-бір-ка да-них: \TU/FreeSerif(0)/m/n/14.4 Ба-зо-вий рі-в
+ень --
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 209--210
+\TU/FreeSerif(0)/m/n/14.4 стан-дар-тне не-і-зо-льо-ва-не 
+ви-ко-на-н-ня у вір-ту-аль-них по-то-ках за за-
+мов-чу-ва-н-ням
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\TU/FreeSerif(0)/m/n/14.4 (\TU/LiberationMono(0)/m/n/14.4 Executors.newVirtualTh
+readPerTaskExecutor()\TU/FreeSerif(0)/m/n/14.4 ) із де-фол-тним
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[14]
+Underfull \hbox (badness 1694) in paragraph at lines 211--212
+\OML/cmm/m/it/14.4 P[]$\TU/FreeSerif(0)/m/n/14.4 , $\OML/cmm/m/it/14.4 P[]$\TU/
+FreeSerif(0)/m/n/14.4 , $\OML/cmm/m/it/14.4 P[]$ \TU/FreeSerif(0)/m/n/14.4 у 
+мс), ко-е-фі-ці-єнт ам-плі-фі-ка-ції за-трим-к
+и со-ке-тних опе-ра-цій
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+[]\TU/FreeSerif(0)/b/n/14.4 Ін-стру-мен-ти та апа-ра-тне 
+за-без-пе-че-н-ня: \TU/FreeSerif(0)/m/n/14.4 OpenJDK 21 та 24/25,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+\TU/FreeSerif(0)/m/n/14.4 GCC/Clang, JMH, HdrHistogram, async-profiler, Docker, bash/Python 
+для
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 213--214
+\TU/FreeSerif(0)/m/n/14.4 ав-то-ма-ти-за-ції те-стів. Ап
+а-ра-тна пла-тфор-ма: Intel Core i5-10400F (6 ядер / 12
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 213--214
+\TU/FreeSerif(0)/m/n/14.4 по-то-ків), 32 GB RAM, ОС Linux (4 ядра 
+ви-ді-ля-ю-ться під carrier pool че-рез
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 215--216
+\TU/FreeSerif(0)/m/n/14.4 від-кри-тий те-сто-вий код і в
+іль-ні ін-стру-мен-ти без за-лу-че-н-ня ко-ме
+р-цій-них чи
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+\TU/FreeSerif(0)/m/n/14.4 Omission) у ге-не-ра-то-рі на-ван-т
+а-же-н-ня (мі-ні-мі-за-ція че-рез ви-ко-ри-ста-
+н-ня
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 217--218
+\TU/FreeSerif(0)/m/n/14.4 HdrHistogram із ком-пен-са-ці-єю за-
+три-мок або ге-не-ра-цію за-пи-тів за від-кри-
+тим
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 217--218
+\TU/FreeSerif(0)/m/n/14.4 -- скла-дність стру-ктур пам’
+яті при мар-ша-лін-гу в FFM ва-рі-ю-є-ться в ре-
+аль-них
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+[]\TU/FreeSerif(0)/b/n/14.4 Мі-ні-маль-не жит-тє-зда-тне 
+до-слі-дже-н-ня (MVR) та Stretch Goal:
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 219--220
+\TU/FreeSerif(0)/m/n/14.4 (вер-сії JVM, JNI vs FFM, callbacks, со-ке-
+ти, фай-ли, sleep, па-ра-ле-лізм но-сі-їв,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+\TU/FreeSerif(0)/m/n/14.4 па-тер-ну ізо-ля-ції (се-ма-фо
+р-ний bulkhead про-ти де-фол-ту). Stretch Goal --
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 219--220
+\TU/FreeSerif(0)/m/n/14.4 ство-ре-н-ня ре-актив-но-го ад
+а-птив-но-го обме-жу-ва-ча кон-ку-рен-тно-сті 
+на ба-зі API
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 219--220
+\TU/FreeSerif(0)/m/n/14.4 ча-сто-ту та три-ва-лість по-д
+ій \TU/LiberationMono(0)/m/n/14.4 jdk.VirtualThreadPinned \TU/FreeSerif(0)/m/
+n/14.4 і ав-то-ма-ти-чно
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[15]
+Underfull \hbox (badness 2635) in paragraph at lines 221--222
+\TU/LiberationMono(0)/m/n/14.4 //doi.org/10.1145/3748522.3779882$[]\TU/FreeSeri
+f(0)/m/n/14.4 ), Stanojević et al. ([Src-3], DOI:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+[]\TU/FreeSerif(0)/b/n/14.4 Кри-те-рій фаль-си-фі-ко-ва-н
+о-сті: \TU/FreeSerif(0)/m/n/14.4 Пу-блі-ка-ція то-то-жно-
+го від-кри-то-го
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 225--226
+\TU/FreeSerif(0)/m/n/14.4 бен-чмар-кін-го-во-го до-слі-д
+же-н-ня з пов-ним фа-ктор-ним по-кри-т-тям (FFM, 
+JNI,
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 225--226
+\TU/FreeSerif(0)/m/n/14.4 callbacks, со-ке-ти, вер-сії JDK 21/25) 
+та го-то-вою оцін-кою па-тер-нів ізо-ля-ції д
+о
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 225--226
+\TU/FreeSerif(0)/m/n/14.4 за-вер-ше-н-ня ро-бо-ти; або до-
+ве-де-н-ня то-го, що на-кла-дні ви-тра-ти будь-
+якого
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\TU/FreeSerif(0)/m/n/14.4 при-кла-дно-го па-тер-ну ізо-л
+я-ції (се-ма-фо-ра) пов-ні-стю ні-ве-лю-ють пе-
+ре-ва-гу
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 227--228
+\TU/FreeSerif(0)/m/n/14.4 ство-ре-н-ня кон-кре-тних ар-т
+е-фа-ктів (open-source бі-бліо-те-ка, бен-чмарк, ма-
+три-ця
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+\TU/FreeSerif(0)/m/n/14.4 рі-шень), най-ви-ща ре-а-лі-сти-
+чність ви-ко-на-н-ня (92/100) за 2--3 мі-ся-ці на
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 227--228
+\TU/FreeSerif(0)/m/n/14.4 на-яв-но-му комп’юте-рі. Го-л
+ов-ний ри-зик: більш при-кла-дний ін-же-нер-н
+ий фо-кус
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 227--228
+\TU/FreeSerif(0)/m/n/14.4 ба-га-то-фа-ктор-них про-го-ні
+в для за-по-бі-га-н-ня пе-ре-грі-ву чи ча-со-в
+их за-три-мок
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+[]\TU/FreeSerif(0)/m/n/14.4 Те-ма C є між-ди-сци-плі-нар-н
+им frontier-кандидатом до-слі-дже-н-ня, що
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 231--232
+\TU/FreeSerif(0)/m/n/14.4 ді-а-гно-сти-ки ядра опе-ра-ці
+й-ної си-сте-ми та при-кла-дно-го ана-лі-зу д
+а-них. Во-на
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 231--232
+\TU/FreeSerif(0)/m/n/14.4 а та-кож по-бу-до-ві швид-ких 
+су-ро-га-тних мо-де-лей ма-шин-но-го на-вча-н-
+ня для
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+[]\TU/FreeSerif(0)/b/n/14.4 За-го-ло-вок (EN): \TU/FreeSerif(0)/m/n/14
+.4 Cross-Layer Ob-serv-abil-ity and Sur-ro-gate Per-for-mance
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 237--238
+[]\TU/FreeSerif(0)/b/n/14.4 До-слі-дни-цьке по-ле: \TU/FreeSeri
+f(0)/m/n/14.4 Комп’ютер-ні на-у-ки / Ін-фор-ма-цій-
+ні си-сте-ми та
+ []
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 237--238
+\TU/FreeSerif(0)/m/n/14.4 те-хно-ло-гії (спе-ці-аль-но-с
+ті 122 / 126), Data Science & Systems Observability,
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 237--238
+\TU/FreeSerif(0)/m/n/14.4 низь-ко-рів-не-ва ді-а-гно-сти-
+ка ядра ОС (Linux kernel & eBPF tracing), су-ро-га-тне
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 239--240
+[]\TU/FreeSerif(0)/b/n/14.4 На-у-ко-ва про-бле-ма: \TU/FreeSerif
+(0)/m/n/14.4 Пі-нінг вір-ту-аль-них по-то-ків на м
+е-жі FFM/JNI є
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 239--240
+\TU/FreeSerif(0)/m/n/14.4 скла-дним між-рів-не-вим фе-н
+о-ме-ном: пла-ну-валь-ник JVM ке-рує від-обра-ж
+е-н-ням
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 239--240
+\TU/FreeSerif(0)/m/n/14.4 вір-ту-аль-них по-то-ків на по
+токи-носії у про-сто-рі ко-ри-сту-ва-ча (user space
+),
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 239--240
+\TU/FreeSerif(0)/m/n/14.4 то-ді як на-тив-ні ви-кли-ки (down
+calls), зво-ро-тні ви-кли-ки (callbacks) та змі-ша-ні
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+[]\TU/FreeSerif(0)/m/n/14.4 Нор-ма-тив-на спе-ци-фі-ка-ці
+я OpenJDK JEP 491 ([Src-11]): офі-цій-но
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 244--245
+\TU/FreeSerif(0)/m/n/14.4 ви-клю-чно на рів-ні бай-тко-д
+у/JVMTI че-рез shadow locks і прин-ци-по-во не
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[17]
+Underfull \hbox (badness 3492) in paragraph at lines 245--246
+[]\TU/FreeSerif(0)/m/n/14.4 Не-ста-ціо-нар-ність та фа-з
+о-ві пе-ре-хо-ди ран-та-йму JVM (Antoch et al.,
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 246--247
+[]\TU/FreeSerif(0)/m/n/14.4 Ем-пі-ри-чні свід-че-н-ня ви-
+сна-же-н-ня но-сі-їв у про-ми-сло-вих бен-чма
+р-ках
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 247--248
+\TU/FreeSerif(0)/m/n/14.4 і пов-ні-стю втра-чає ко-ре-ля-
+цію при пе-ре-хо-ді на вір-ту-аль-ні по-то-ки; 
+крім то-го,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 247--248
+\TU/FreeSerif(0)/m/n/14.4 тра-су-ва-н-ня че-рез DTrace USDT-п
+роби збіль-шує за-трим-ку у 6.1 ра-за (+507%)
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 254--255
+\TU/FreeSerif(0)/m/n/14.4 су-ро-га-тні мо-де-лі ма-шин-н
+о-го на-вча-н-ня (Response Surface Methodology, GBDT
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 254--255
+\TU/FreeSerif(0)/m/n/14.4 -- LightGBM/XGBoost, SHAP-аналіз вза-є-м
+о-дій фа-кто-рів) для ви-яв-ле-н-ня та
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[18]
+Underfull \hbox (badness 1789) in paragraph at lines 258--259
+\TU/LiberationMono(0)/m/n/14.4 futex\TU/FreeSerif(0)/m/n/14.4 , час очі-
+ку-ва-н-ня в чер-зі пла-ну-валь-ни-ка) роз-рі-
+зня-ють пі-нінг на-тив-них
+ []
+
+
+Underfull \hbox (badness 6016) in paragraph at lines 259--260
+\TU/FreeSerif(0)/m/n/14.4 пі-нінг на мо-ні-то-рах \TU/Liberati
+onMono(0)/m/n/14.4 synchronized \TU/FreeSerif(0)/m/n/14.4 (JDK 24+ / JEP 491), 
+по-рів-ня-но з
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 263--264
+\TU/FreeSerif(0)/m/n/14.4 JVM; крім то-го, ан-сам-бле-ві д
+е-рев-ні су-ро-га-тні мо-де-лі (LightGBM/XGBoost із
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 263--264
+\TU/FreeSerif(0)/m/n/14.4 SHAP-атрибуцією) зда-тні пе-ред-
+ба-ча-ти хво-сто-ву де-гра-да-цію $\OML/cmm/m/it/14.4 P[]$ \TU/FreeSerif(0)/m/n/14.4 
+та ви-яв-ля-ти
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 263--264
+\TU/FreeSerif(0)/m/n/14.4 до-мі-нан-тні між-фа-ктор-ні в
+за-є-мо-дії (зокре-ма 3-факторну вза-є-мо-дію 
+«на-яв-ність
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 265--266
+[]\TU/FreeSerif(0)/b/n/14.4 Ме-та до-слі-дже-н-ня: \TU/FreeSerif
+(0)/m/n/14.4 По-бу-до-ва син-хро-ні-зо-ва-но-го про-
+грам-но-го кон-ве-є-ра
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 265--266
+\TU/FreeSerif(0)/m/n/14.4 між-рів-не-вої те-ле-ме-трії (JVM
+-to-OS) та на-вча-н-ня ін-тер-пре-то-ва-ної су-ро-
+га-тної
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[19]
+Underfull \hbox (badness 5985) in paragraph at lines 269--270
+\TU/FreeSerif(0)/m/n/14.4 JVM JFR (\TU/LiberationMono(0)/m/n/14.4 jdk.VirtualThr
+eadPinned\TU/FreeSerif(0)/m/n/14.4 , \TU/LiberationMono(0)/m/n/14.4 jdk.ThreadPa
+rk\TU/FreeSerif(0)/m/n/14.4 ) із то-чка-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+\TU/FreeSerif(0)/m/n/14.4 тра-су-ва-н-ня ядра Linux (\TU/Liberati
+onMono(0)/m/n/14.4 sched:sched_-switch\TU/FreeSerif(0)/m/n/14.4 , си-сте
+м-ни-ми ви-кли-ка-ми
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+\TU/LiberationMono(0)/m/n/14.4 syscalls:sys_-enter_-*\TU/FreeSerif(0)/m/n/14.4 
+, лі-чиль-ни-ка-ми \TU/LiberationMono(0)/m/n/14.4 perf_-event_-open\TU/FreeSerif(0)/m/n/14.4 /\TU/LiberationMono(0)/m/n/14.4 bpftrace\TU/FreeSerif(0)/m/n/14.4 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+[]\TU/FreeSerif(0)/m/n/14.4 Спро-є-кту-ва-ти та ре-а-лі-з
+у-ва-ти план ба-га-то-фа-ктор-но-го екс-пе-ри-
+мен-ту
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 271--272
+[]\TU/FreeSerif(0)/m/n/14.4 Про-ве-сти дис-пер-сій-ний т
+а причинно-наслідковий ана-ліз чу-тли-во-ст
+і
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+[]\TU/FreeSerif(0)/m/n/14.4 На-вчи-ти, ва-лі-ду-ва-ти та п
+о-рів-ня-ти су-ро-га-тні мо-де-лі (по-лі-но-мі-
+аль-ні
+ []
+
+
+Underfull \hbox (badness 6808) in paragraph at lines 272--273
+\TU/FreeSerif(0)/m/n/14.4 мо-де-лі по-верх-ні від-гу-ку RSM
+ та гра-ді-єн-тний бу-стинг LightGBM/XGBoost)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+\TU/FreeSerif(0)/m/n/14.4 для про-гно-зу-ва-н-ня про-пу-
+скної зда-тно-сті та клі-фів $\OML/cmm/m/it/14.4 P[]$ \TU
+/FreeSerif(0)/m/n/14.4 на від-кла-де-них
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+[]\TU/FreeSerif(0)/b/n/14.4 На-у-ко-ва но-ви-зна: \TU/FreeSerif(0
+)/m/n/14.4 Між-ди-сци-плі-нар-ний син-тез ме-то-д
+ів си-стем-но-го
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 276--277
+\TU/FreeSerif(0)/m/n/14.4 ма-шин-но-го на-вча-н-ня, що вп
+ер-ше за-без-пе-чує кіль-кі-сну оцін-ку між-ф
+а-ктор-ної
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+[]\TU/FreeSerif(0)/m/n/14.4 Від-кри-тий ін-стру-мен-таль-
+ний скрипт між-рів-не-во-го мо-ні-то-рин-гу
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 280--281
+\TU/FreeSerif(0)/m/n/14.4 (eBPF + JFR) для низь-ко-о-вер-хе-д
+ної ді-а-гно-сти-ки ви-ро-бни-чих за-три-мок 
+у
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 282--283
+\TU/FreeSerif(0)/m/n/14.4 ав-то-ма-ти-зо-ва-но-го тю-нін-
+гу па-ра-ме-трів пу-лу но-сі-їв у CI/CD або ран-
+тай-мі без
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[20]
+Underfull \hbox (badness 2762) in paragraph at lines 285--286
+\TU/FreeSerif(0)/m/n/14.4 низь-ко-рів-не-ве тра-су-ва-н-
+ня ядра Linux (\TU/LiberationMono(0)/m/n/14.4 perf\TU/FreeSerif(0)/m/n/14
+.4 , \TU/LiberationMono(0)/m/n/14.4 bpftrace\TU/FreeSerif(0)/m/n/14.4 , kernel 
+tracepoints);
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 287--288
+[]\TU/FreeSerif(0)/b/n/14.4 Ба-зо-вий рі-вень (Baseline) та в
+и-бір-ка да-них: \TU/FreeSerif(0)/m/n/14.4 Одно-рів-не-в
+і ре-гре-сій-ні
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 287--288
+\TU/FreeSerif(0)/m/n/14.4 ев-ри-сти-ки та лі-ній-ні мо-д
+е-лі ви-клю-чно на ба-зі ме-трик про-сто-ру к
+о-ри-сту-ва-ча
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 287--288
+\TU/FreeSerif(0)/m/n/14.4 пе-ре-ми-ка-н-ня. Ви-бір-ка да-
+них -- пу-блі-чний ба-га-то-ви-мір-ний та-бли-
+чний да-та-сет
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 289--290
+[]\TU/FreeSerif(0)/b/n/14.4 Ме-три-ки оцін-ки: \TU/FreeSerif(0)/m/
+n/14.4 Якість су-ро-га-тних мо-де-лей: ко-е-фі-ц
+і-єнт де-тер-мі-на-ції
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 289--290
+\TU/FreeSerif(0)/m/n/14.4 ($\OML/cmm/m/it/14.4 R[]$\TU/FreeSerif(0)/m/n/14.4 ), RMSE, MAPE 
+для ло-га-ри-фма за-трим-ки $[]\OT1/cmr/m/n/14.4 (\OML/cmm/
+m/it/14.4 P[]\OT1/cmr/m/n/14.4 )$\TU/FreeSerif(0)/m/n/14.4 , Precision, Recall 
+та
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 289--290
+\OML/cmm/m/it/14.4 F[]$\TU/FreeSerif(0)/m/n/14.4 -score для кла-си-ф
+і-ка-ції на-ста-н-ня клі-фу го-ло-ду-ва-н-ня. Ф
+а-ктор-на чу-тли-вість:
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 289--290
+\TU/FreeSerif(0)/m/n/14.4 ін-де-кси Со-бо-ля пер-шо-го т
+а пов-но-го по-ряд-ку, аб-со-лю-тні зна-че-н-н
+я SHAP.
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 291--292
+\TU/FreeSerif(0)/m/n/14.4 Python 3.11+ (Pandas, SciPy, Scikit-learn, XGBoost, Li
+ghtGBM, SHAP, SALib,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+[]\TU/FreeSerif(0)/b/n/14.4 Ети-чні ри-зи-ки: \TU/FreeSerif(0)/m/n/
+14.4 Від-су-тні. До-слі-дже-н-ня спи-ра-є-ться н
+а син-те-ти-чні
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 293--294
+\TU/FreeSerif(0)/m/n/14.4 на-ван-та-же-н-ня, від-кри-ті с
+и-стем-ні ін-тер-фей-си та лі-цен-зій-но чи-с
+ті ком-по-нен-ти
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[21]
+Underfull \hbox (badness 4429) in paragraph at lines 295--296
+[]\TU/FreeSerif(0)/b/n/14.4 За-гро-зи ва-лі-дно-сті: \TU/FreeS
+erif(0)/m/n/14.4 Вну-трі-шня (Observer effect) -- на-кла-дні 
+ви-тра-ти
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 295--296
+\TU/FreeSerif(0)/m/n/14.4 одно-ча-сно-го тра-су-ва-н-ня JFR
+ та ядра Linux мо-жуть спо-тво-ри-ти ви-мі-рю-ва-
+н-ня
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 295--296
+\TU/FreeSerif(0)/m/n/14.4 за-мість ди-ско-во-го дам-пу к
+о-жно-го ви-кли-ку з фі-кса-ці-єю овер-хе-ду $\O
+ML/cmm/m/it/14.4 < \OT1/cmr/m/n/14.4 2\TU/FreeSerif(0)/m/n/14.4 %$);
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 295--296
+\TU/FreeSerif(0)/m/n/14.4 кон-стру-ктив-на -- пе-ре-на-вч
+а-н-ня су-ро-га-тної мо-де-лі (мі-ні-мі-за-ція: 
+те-сту-ва-н-ня на
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 295--296
+\TU/FreeSerif(0)/m/n/14.4 від-кла-де-них кон-фі-гу-ра-ці-
+ях з ін-тер-по-ля-ці-єю та екс-тра-по-ля-ці-єю);
+ зов-ні-шня --
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 297--298
+\TU/FreeSerif(0)/m/n/14.4 на-ста-н-ня $\OML/cmm/m/it/14.4 P[]$ \TU/Free
+Serif(0)/m/n/14.4 starvation cliff із то-чні-стю $\OML/cmm/m/it/14.4 
+F[] > \OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 85$\TU/FreeSerif
+(0)/m/n/14.4 . Stretch Goal -- роз-роб-ка
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 297--298
+\TU/FreeSerif(0)/m/n/14.4 10-секундний ком-бі-но-ва-ний 
+про-філь (JFR + \TU/LiberationMono(0)/m/n/14.4 perf\TU/FreeSerif(0)/m/n/
+14.4 ) пра-цю-ю-чо-го за-сто-сун-ку і
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 297--298
+\TU/FreeSerif(0)/m/n/14.4 на осно-ві на-вче-ної су-ро-га-
+тної мо-де-лі си-гна-лі-зує, якщо по-то-чна і
+н-тен-сив-ність
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 299--300
+\TU/LiberationMono(0)/m/n/14.4 //doi.org/10.1145/3839448$[]\TU/FreeSerif(0)/m/n
+/14.4 ), Fray ([Src-6], DOI: []$\TU/LiberationMono(0)/m/n/14.4 https://doi.org/
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 299--300
+\TU/LiberationMono(0)/m/n/14.4 10.1145/3764119$[]\TU/FreeSerif(0)/m/n/14.4 ), Sc
+hiavio et al. ([Src-2], DOI: []$\TU/LiberationMono(0)/m/n/14.4 https://doi.org/1
+0.
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 303--304
+\TU/FreeSerif(0)/m/n/14.4 ба-га-то-фа-ктор-ні вза-є-мо-д
+ії між JNI/FFM, callbacks, со-ке-та-ми та роз-мі-ром п
+у-лу
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+\TU/FreeSerif(0)/m/n/14.4 на-у-ко-вий про-філь на сти-ку 
+си-стем-но-го про-гра-му-ва-н-ня та ана-лі-зу 
+да-них
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 305--306
+\TU/FreeSerif(0)/m/n/14.4 (спе-ці-аль-но-сті 122 «Комп’ю
+тер-ні на-у-ки» або 126 «Ін-фор-ма-цій-ні си-ст
+е-ми та
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 305--306
+\TU/FreeSerif(0)/m/n/14.4 від-кри-тий цін-ний да-та-сет 
+і при-кла-дну ути-лі-ту, де-мон-стру-ю-чи во-л
+о-ді-н-ня як
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 305--306
+\TU/FreeSerif(0)/m/n/14.4 (double skill curve): до-слі-дник по-ви-
+нен одно-ча-сно во-ло-ді-ти низь-ко-рів-не-ви
+м
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+[]|\TU/FreeSerif(0)/m/n/14.4 Ана-лі-ти-чна /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--315
+[]|\TU/FreeSerif(0)/m/n/14.4 При-кла-дна /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+[]|\TU/FreeSerif(0)/m/n/14.4 Те-о-рія ма-со-во-го
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 об-слу-го-ву-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\OML/cmm/m/it/14.4 M\OT1/cmr/m/n/14.4 /\OML/cmm/m/it/14.4 G\OT1/cmr/m/n/14.4 /\
+OML/cmm/m/it/14.4 c$\TU/FreeSerif(0)/m/n/14.4 ), чи-сель-на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 опти-мі-за-ція
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 (SymPy),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 бен-чмар-кінг на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+[]|\TU/FreeSerif(0)/m/n/14.4 Екс-пе-ри-мен-таль-не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 бен-чмар-ку-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 (JMH, ге-не-ра-тор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 на-ван-та-же-н-ня),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 про-фі-лю-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 (JFR, \TU/LiberationMono(0)/m/n/14.4 async-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/LiberationMono(0)/m/n/14.4 profiler\TU/FreeSerif(0)/m/n/14.4 ),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+[]|\TU/FreeSerif(0)/m/n/14.4 Пла-ну-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 LHS), си-стем-не
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 тра-су-ва-н-ня ядра
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 ана-ліз чу-тли-во-сті
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 (Sobol, SHAP),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+\TU/FreeSerif(0)/m/n/14.4 GBDT (LightGBM/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+[]|\TU/FreeSerif(0)/m/n/14.4 Го-лов-на
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 318--318
+\TU/FreeSerif(0)/m/n/14.4 апро-кси-ма-ції чер-ги,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\TU/FreeSerif(0)/m/n/14.4 хво-сто-ва за-трим-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\TU/FreeSerif(0)/m/n/14.4 (ops/s), за-трим-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\OML/cmm/m/it/14.4 P[]$\TU/FreeSerif(0)/m/n/14.4 , ко-е-фі-ці-єнт
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\OML/cmm/m/it/14.4 L[]$\TU/FreeSerif(0)/m/n/14.4 , пам’ять
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+[]|\TU/FreeSerif(0)/m/n/14.4 Ме-три-ки ML ($\OML/cmm/m/it/14.4 R[]$\TU/F
+reeSerif(0)/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\TU/FreeSerif(0)/m/n/14.4 RMSE, $\OML/cmm/m/it/14.4 F[]$\TU/FreeSerif(0)/m/n/14
+.4 -score
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\TU/FreeSerif(0)/m/n/14.4 для starvation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+\TU/FreeSerif(0)/m/n/14.4 cliff), зна-че-н-ня
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 318--318
+\TU/FreeSerif(0)/m/n/14.4 кон-текс-ту (\TU/LiberationMono(0)/m/n/14.4 
+sched_-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+[]|\TU/FreeSerif(0)/m/n/14.4 Го-лов-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+[]|\TU/FreeSerif(0)/m/n/14.4 Ана-лі-ти-чна мо-дель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 чер-ги (дво-рів-не-ва
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 СМО), за-мкне-ні
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 фор-му-ли то-чки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 на-си-че-н-ня $\OML/cmm/m/it/14.4 []$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 та ймо-вір-но-сті
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 го-ло-ду-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\OML/cmm/m/it/14.4 P[]$\TU/FreeSerif(0)/m/n/14.4 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 про-грам-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+[]|\TU/FreeSerif(0)/m/n/14.4 Від-кри-тий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 8-факторний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 бен-чмар-кін-го-вий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 стенд, оцін-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 blast radius,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 Java-бібліотека
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 па-тер-нів ізо-ля-ції
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 (Resilience Library),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+[]|\TU/FreeSerif(0)/m/n/14.4 Син-хро-ні-зо-ва-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 кон-ве-єр те-ле-ме-трії
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 пу-блі-чний да-та-сет,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 су-ро-га-тна мо-дель
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+\TU/FreeSerif(0)/m/n/14.4 про-гно-зу-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 319--319
+\OML/cmm/m/it/14.4 P[]$\TU/FreeSerif(0)/m/n/14.4 , ути-лі-та «Loom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]|\TU/FreeSerif(0)/m/n/14.4 Скла-дність
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]|\TU/FreeSerif(0)/m/n/14.4 Низь-ка (ло-каль-ний
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 стенд JMH/JFR на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 ав-то-ма-ти-зо-ва-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 стенд Java/C
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 зі змі-ша-ним
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 на-ван-та-же-н-ням та
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]|\TU/FreeSerif(0)/m/n/14.4 Ви-со-ка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 (між-рів-не-вий
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 кон-ве-єр тра-су-ва-н-ня
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 ядра Linux че-рез
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 eBPF/\TU/LiberationMono(0)/m/n/14.4 perf \TU/FreeSeri
+f(0)/m/n/14.4 +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 HotSpot JFR із
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 мі-ні-мі-за-ці-єю
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\TU/FreeSerif(0)/m/n/14.4 овер-хе-ду $\OML/cmm/m/it/14.4 < \OT1/cmr/m/n
+/14.4 2\TU/FreeSerif(0)/m/n/14.4 %$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\TU/FreeSerif(0)/m/n/14.4 Го-лов-ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\TU/FreeSerif(0)/m/n/14.4 Ана-лі-ти-чна
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 не-розв’язність
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 рів-нянь
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 ба-га-то-кла-со-вої
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 СМО в за-мкне-ній
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 фор-мі для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 не-екс-по-нен-цій-них
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 роз-по-ді-лів ча-су
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\TU/FreeSerif(0)/m/n/14.4 Мен-ша те-о-ре-ти-чна
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 но-ви-зна (більш
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 ри-зик пе-ре-грі-ву
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 та трот-тлін-гу CPU
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 че-рез три-ва-лість
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 ба-га-то-фа-ктор-них
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+[]|\TU/FreeSerif(0)/m/n/14.4 Ви-мо-га по-двій-ної
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 екс-пер-ти-зи (double
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 skill curve: Linux
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 kernel/eBPF та Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 Science/ML); ри-зик
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 роз-ми-ва-н-ня фо-ку-су
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 321--321
+\TU/FreeSerif(0)/m/n/14.4 між тра-су-ва-н-ням і
+ []
+
+ignored: Infinite glue shrinkage found in box being split
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[23]
+ignored: Infinite glue shrinkage found in box being split
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[24])
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[25]
+\openout2 = conclusion.aux
+ (./conclusion.tex
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[26
 
 
 
 
+])
+
+Package fancyhdr Warning: \headheight is too small (14.0pt): 
+(fancyhdr)                Make it at least 17.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{17.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.0pt}.
+
+[27
 
 ] (./main.aux (./title.aux) (./body.aux) (./conclusion.aux))
  ***********
@@ -1101,24 +3228,26 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 20030 strings out of 476076
+ 20080 strings out of 476076
  125041,953878 words of node,token memory allocated
- 605 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 27 attribute, 59 glue_spec
-, 14 attribute_list, 3 write, 7 pdf_action nodes
-   avail lists: 1:1,2:2418,3:521,4:82,5:1447,6:76,7:8093,8:59,9:1663,10:13,11:91
-3
- 42055 multiletter control sequences out of 65536+600000
+ 791 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 59 attribute, 59 glue_spec
+, 30 attribute_list, 3 write, 22 pdf_action nodes
+   avail lists: 1:1,2:1170,3:386,4:82,5:1457,6:73,7:7483,8:59,9:1031,10:16,11:99
+2
+ 42058 multiletter control sequences out of 65536+600000
  43 fonts using 14318335 bytes
- 88i,11n,105p,882b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,12n,105p,1490b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <./fonts/LiberationMono-Regular.ttf><./fonts/FreeSerifBold.otf><./fonts/FreeSeri
-f.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/sha
-re/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (7 pages, 74277 bytes).
+f.otf></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on main.pdf (27 pages, 155945 bytes).
 
-PDF statistics: 189 PDF objects out of 1000 (max. 8388607)
- 166 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 1048576)
+PDF statistics: 355 PDF objects out of 1000 (max. 8388607)
+ 308 compressed objects within 4 object streams
+ 93 named destinations out of 1000 (max. 1048576)
  145 words of extra memory for PDF output out of 10000 (max. 100000000)
 
