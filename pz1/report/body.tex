@@ -42,12 +42,33 @@
     \end{itemize}
 \end{itemize}
 
-\subsection{Знайдені корисні джерела}
+\subsection{Знайдені ключові джерела}
+
+\begin{enumerate}
+    \item \foreignlanguage{english}{FCoral: A Framework for Fine-grained Concurrency Evaluation Across Programming Language Runtimes.} 2026. (\url{https://doi.org/10.1145/3847668}).
+    \item \foreignlanguage{english}{Misleading Microbenchmarks on the Java Virtual Machines.} 2026. (\url{https://doi.org/10.1145/3748522.3779882}).
+    \item \foreignlanguage{english}{Practical Benchmarking Configurations for Reproducible Execution-Time Measurements of CI/CD-Style Workloads.} 2026. (\url{https://doi.org/10.1145/3838807}).
+    \item \foreignlanguage{english}{Experimental Evaluation Methodology for the Era of No Steady Performance.} 2026. (\url{https://doi.org/10.1145/3839448}).
+    \item \foreignlanguage{english}{Fray: An Efficient General-Purpose Concurrency Testing Platform for the JVM.} 2025. (\url{https://doi.org/10.1145/3764119}).
+    \item \foreignlanguage{english}{Benchmarking the Performance of Java Virtual Threads in High-Throughput Workloads.} 2024. (\url{https://norma.ncirl.ie/8134/}).
+    \item \foreignlanguage{english}{Virtual Threads after JDK 24: What Changed for Production Java.} 2026. (\url{https://www.infoq.com/articles/virtual-threads-after-jdk24/}).
+    \item \foreignlanguage{english}{JEP 491: Synchronize Virtual Threads without Pinning.} 2024. (\url{https://openjdk.org/jeps/491}).
+    \item \foreignlanguage{english}{Java Threading Options in 2026: Platform vs Virtual Threads.} 2026. (\url{https://www.jobrunr.io/en/blog/java-job-threading-options/}).
+    \item \foreignlanguage{english}{Java 25 and the Evolution of Modern Java for Next-Generation Software Systems.} 2026. (\url{https://doi.org/10.55041/ijcope.v2i4.357}).
+    \item \foreignlanguage{english}{eBPF jAgent: Transaction-level Resource Demand Tracing for Java Applications Using eBPF and OpenTelemetry.} 2026. (\url{https://github.com/hm-green-it-lab/ssp2026}).
+\end{enumerate}
 
 \subsection{Виявлені проблеми}
 
-\begin{enumerate}
-    \item ...
+На основі аналізу наукової літератури, офіційних специфікацій OpenJDK та результатів інженерних досліджень виділено ключові проблеми диспетчеризації та надійності віртуальних потоків JVM:
+
+\begin{enumerate}[wide]
+    \item \textbf{Залишкове блокування пулу потоків-носіїв на нативній межі (carrier-pool starvation).} Незважаючи на усунення моніторного пінінгу в JDK 24 (JEP 491), виконання нативного коду через C ABI (як у JNI, так і в Panama FFM API) та нативні зворотні виклики (callbacks) примусово утримує платформені потоки, спричиняючи приховане виснаження пулу \foreignlanguage{english}{ForkJoinPool} при зростанні конкурентності.
+    \item \textbf{Відсутність замкнених аналітичних моделей масового обслуговування.} У науковій літературі бракує формалізованого математичного апарату теорії черг, який би дозволяв аналітично розраховувати критичний поріг насичення системи ($\lambda_{\mathrm{crit}}$), довжину черг очікування та квантилі хвостових затримок для гібридних навантажень, що поєднують відмонтовувані операції вводу-виводу та невідмонтовувані нативні виклики.
+    \item \textbf{Ефект взаємного блокування задач та радіус ураження (blast radius).} Неізольоване закріплення потоків-носіїв під час тривалих нативних операцій блокує спільний пул ресурсів, що призводить до нелінійного падіння пропускної здатності та спалахів хвостових затримок ($P_{99}$) у сусідніх незалежних віртуальних потоках (зокрема неблокуючому мережевому I/O).
+    \item \textbf{Зміщення вузького місця та дефіцит архітектурних патернів ізоляції.} Неконтрольоване масштабування віртуальних потоків зміщує перевантаження на супутні підсистеми (пули з'єднань з базами даних, системні дескриптори), зумовлюючи каскадні відмови; водночас в інженерній практиці бракує верифікованих патернів захисту (семафорних бар'єрів-bulkheads, виділених пулів) для ізоляції нативного коду.
+    \item \textbf{Міжрівневий розрив спостережуваності рантайму та ядра ОС.} Планувальник JVM керує легковажними потоками у просторі користувача ($M:N$), а операційна система -- на рівні ядра (\foreignlanguage{english}{task\_struct}). Профайлери байткоду (JVMTI) не фіксують перемикання контексту ядра ОС (\foreignlanguage{english}{sched\_switch}, черги \foreignlanguage{english}{futex}), тоді як системні трейсери (eBPF) прив'язані до потоків ядра та втрачають транзакційний контекст при виконанні віртуальних потоків.
+    \item \textbf{Ефект спостерігача та висока вартість багатофакторного тестування.} Глибоке системне трасування вносить значний оверхед у рантайм і спотворює вимірювання затримок, а повний емпіричний аналіз багатовимірного простору конфігурацій потребує надмірних ресурсів, що зумовлює потребу у легковажній телеметрії та сурогатних моделях машинного навчання.
 \end{enumerate}
 
 \section{Перевірені дослідницькі прогалини}

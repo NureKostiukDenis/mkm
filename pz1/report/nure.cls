@@ -34,6 +34,8 @@
 \RequirePackage{graphicx}
 \RequirePackage{float}
 \RequirePackage{cleveref}
+\RequirePackage[none]{hyphenat}
+\sloppy
 
 % Бібліографія (BibTeX з ugost2008 під вимоги ДСТУ 8302:2015 без довгих тире .—)
 \AtBeginDocument{%
